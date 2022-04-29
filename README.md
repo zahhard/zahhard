@@ -1,11 +1,18 @@
-### Hi friends 👋
+# Zahra Davardoust
 
+Hello 👋🏻,
+
+🔭 I’m learing android programming
+
+
+
+## &#x1f4c8; My GitHub Stats
 <!--
 **zahhard/zahhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m learing Android programming whit kotlin but It's also easy to write it in java.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
