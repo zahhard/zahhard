@@ -1,8 +1,8 @@
 # Zahra Davardoust
 
 Hello 👋🏻,
-
-🔭 I’m learing android programming
+<!-- 
+🔭 I’m learing android programming -->
 
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -37,8 +37,12 @@ Hello 👋🏻,
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zahhard&theme=dark&background=000000)](https://git.io/streak-stats)      
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahhard&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=zahhard&show_icons=true&line_height=27&count_private=true&title_color=FF8C00&text_color=c9cacc&icon_color=FF8C00&bg_color=000000" alt="ZAhra Zavardoust's GitHub Stats" />
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahhard&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zahhard/zahhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
