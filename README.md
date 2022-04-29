@@ -4,9 +4,9 @@ Hello 👋🏻,
 
 🔭 I’m learing android programming
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div> -->
 
 
 <!-- <div id="badges">
@@ -34,7 +34,10 @@ Hello 👋🏻,
 ## &#x1f4c8; My GitHub Stats
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zahhard&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zahhard&theme=dark&background=000000)](https://git.io/streak-stats)      
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahhard&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
