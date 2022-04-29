@@ -3,7 +3,7 @@
 Hello 👋🏻
 
 
-## :hammer_and_wrench: Social media 
+## :writing_hand: Social media 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/zahra-davardoust-320486239/">
@@ -15,7 +15,8 @@ Hello 👋🏻
 ## :hammer_and_wrench: Languages and Tools
 
 <div>
-  <h3> 
+    <img src="https://user-images.githubusercontent.com/91548634/165970751-b11090d8-68e2-49ef-b1bc-287ddef5d060.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/91548634/165970205-550e0a3f-2903-436e-81f5-d7090c16324b.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
